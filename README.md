@@ -25,4 +25,4 @@ Akhil Kumar K S
 
 Check the working Website Live here!!! (desktop view)
 
-https://akhil-kumar-ks.github.io/TSF-Grip-Project/
+https://shaaplay.github.io/TSF-Grip/
