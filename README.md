@@ -4,7 +4,7 @@ Shashank
 ♦ 📧 shaaplay@gmail.com
 
 ♦  Hello !! This is my Internship project at
--The Sparks foundation for the Oct 2021 batch.
+-The Sparks foundation for the Sep 2021 batch.
 
   TSF GRIP Task- Payment Integration Gateway
 
